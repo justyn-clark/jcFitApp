@@ -1,0 +1,15 @@
+# Justyn Clark
+# http://justynclark.com
+# @author Justyn Clark
+
+.DS_Store
+.tmp
+CHANGELOG.md
+node_modules
+.sass-cache
+bower_components
+.editorconfig
+.idea/
+.jshintrc
+.travis.yml
+
